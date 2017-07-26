@@ -1,0 +1,40 @@
+.typebank { background: url("bank.png") no-repeat; text-indent: -9999px; }
+.typecard { background: url("cardimg.jpg") no-repeat; text-indent: -9999px; }
+/*银行类*/
+.ABC { background-position: 0 0; /*农业银行*/ }
+.BOC { background-position: 0 -36px; /*中国银行*/ }
+.CCB { background-position: 0 -72px; /*建设银行*/ }
+.CEB { background-position: 0 -108px; /*光大银行*/ }
+.CIB { background-position: 0 -144px; /*兴业银行*/ }
+.CITIC { background-position: 0 -180px; /*中信银行*/ }
+.CMB { background-position: 0 -216px; /*招商银行*/ }
+.CMBC { background-position: 0 -252px; /*民生银行*/ }
+.BOCO { background-position: 0 -288px; /*交通银行*/ }
+.GDB { background-position: 0 -324px; /*广发银行*/ }
+.ICBC { background-position: 0 -360px; /*工商银行*/ }
+.KuaiIconY { background-position: 0 -396px; /*Alipay快捷支付*/ }
+.PSBC { background-position: 0 -432px; /*中国邮政储蓄银行*/ }
+.SDB { background-position: 0 -468px; /*深圳发展银行*/ }
+.SPABANK { background-position: 0 -504px; /*平安银行*/ }
+.SPDB { background-position: 0 -540px; /*浦发银行*/ }
+
+/*卡类*/
+
+
+
+.JIUYOU { background-position: 0 -345px; /*久游一卡通*/ }
+.WANMEI { background-position: 0 -201px; /*完美一卡通*/ }
+.ZHENGTU { background-position: 0 -301px; /*征途游戏卡*/ }
+.SOHU { background-position: 0 -251px; /*搜狐一卡通*/ }
+.SNDACARD { background-position: 0 -58px; /*盛大卡*/ }
+.JUNNET { background-position: 0 -104px; /*骏网卡*/ }
+.QQCARD { background-position: 0 -10px; /*QQ卡*/ }
+.JINSHAN { background-position: 0 -680px; /*金山一卡通*/ }
+.NETEASE { background-position: 0 -392px; /*网易一卡通*/ }
+.MOSHOU { background-position: 0 -440px; /*魔兽充值卡*/ }
+.LIANHUA { background-position: 0 -142px; /*联华卡*/ }
+.SZX { background-position: 0 -586px; /*神州行充值卡*/ }
+.UNICOM { background-position: 0 -632px; /*联通充值卡*/ }
+.TELECOM { background-position: 0 -537px; /*中国电信充值卡*/ }
+.ZONGYOU { background-position: 0 -911px; /*纵游一卡通*/ }
+.TIANXIA { background-position: 0 -964px; /*天下通*/ }
